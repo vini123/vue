@@ -11,6 +11,4 @@ npm run dev
 
 # 截图
 
-<div style="text-align:center">
 ![image](https://blog.vini123.com/wp-content/uploads/2017/10/0C986D42-FA9C-4D25-81AE-453439E8F171.jpg)
-</div>
