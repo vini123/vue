@@ -5,7 +5,7 @@
 ``` js
 git clone xxxx
 
-cd ./vue/s2
+cd vue/s2
 
 npm install
 
