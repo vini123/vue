@@ -27,7 +27,7 @@ npm run dev
 ```
 <div align=center>
   
-![image](https://blog.vini123.com/wp-content/uploads/2017/10/20171020133038.png)
+![image](https://blog.vini123.com/wp-content/uploads/2017/10/1509287451402.jpg)
 
 </div>
 
